@@ -1,0 +1,56 @@
+/*h1*/
+
+h1 {
+    color: #e66576;
+    font-size: 36px;
+}
+
+/*h2*/
+
+h2 {
+    color: #110204;
+    
+    font-size: 30px;
+}
+
+/*h3*/
+h3 {
+    color: #110204;
+    
+    font-size: 24px;
+}
+
+/*p*/
+p {
+    color: #000505;
+    font-size: 20px;
+}
+
+
+body {
+    background-color: #ecdcdb;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/*section*/
+
+section {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+
+}
+
+ul {
+    color: #a6d4da;
+    font-size: 16px;
+}
+/*li*/
+li {
+    color: #f19b19;
+    font-size: 24px;
+    list-style-type: none;
+
+}
